@@ -1,4 +1,7 @@
 # 🚀 AI Chat Mode: Jarvis System
+<p align="center">
+  <img src="chatmode_.png" alt="Chat Banner" width="700">
+</p>
 
 <p align="center">
   <img src="AIChat_Mode_backend connect_node.png" alt="Jarvis Banner" width="700">

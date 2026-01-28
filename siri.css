@@ -1,0 +1,49 @@
+/* Full black screen */
+body {
+    margin: 0;
+    background: #000;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+#siri-container {
+    text-align: center;
+}
+
+/* Glowing circle like Siri */
+#siri-circle {
+    width: 140px;
+    height: 140px;
+    border-radius: 50%;
+    background: radial-gradient(circle, #ffffff 0%, #4cc9f0 40%, #7209b7 70%);
+    animation: pulse 2s infinite ease-in-out;
+    box-shadow: 0 0 35px rgba(255, 255, 255, 0.6);
+    margin-bottom: 20px;
+}
+
+/* Subtle animated pulsing */
+@keyframes pulse {
+    0% {
+        transform: scale(0.85);
+        box-shadow: 0 0 15px #fff;
+    }
+    50% {
+        transform: scale(1);
+        box-shadow: 0 0 35px #4cc9f0;
+    }
+    100% {
+        transform: scale(0.85);
+        box-shadow: 0 0 15px #fff;
+    }
+}
+
+/* Listening / Speaking text */
+#status-text {
+    color: #fff;
+    font-size: 18px;
+    opacity: 0.6;
+}

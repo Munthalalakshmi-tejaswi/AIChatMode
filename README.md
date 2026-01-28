@@ -70,3 +70,4 @@ Open your terminal in the `AI_ChatMode` folder and run:
 ```bash
 npm init -y
 npm install express cors
+```

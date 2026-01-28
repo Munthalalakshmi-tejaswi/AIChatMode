@@ -60,14 +60,3 @@ The system operates on a client-server architecture. The browser captures voice 
 
 ---
 
-## 🚀 Setup Instructions
-
-### 1. Prerequisites
-Ensure you have [Node.js](https://nodejs.org/) (v16 or higher) installed.
-
-### 2. Installation
-Open your terminal in the `AI_ChatMode` folder and run:
-```bash
-npm init -y
-npm install express cors
-```

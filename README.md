@@ -57,6 +57,6 @@ The system operates on a client-server architecture. The browser captures voice 
 | **Web Navigation**| "Open Google", "Open YouTube" |
 | **Calculations** | "Calculate [Math Expression] Ex : Calculate 5 * 10 + 2" |
 | **System Info** | "Status", "Who are you?" |
-| **Themes**,"Stealth mode", "Normal mode"|
+| **Themes**| "Stealth mode", "Normal mode"|
 ---
 

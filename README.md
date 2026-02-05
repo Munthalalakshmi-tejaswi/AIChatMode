@@ -55,8 +55,8 @@ The system operates on a client-server architecture. The browser captures voice 
 | **Utilities** | "Time", "Date", "Battery" |
 | **To-Do List** | "Add [Task]", "List", "Clear", "Done [Number]" |
 | **Web Navigation**| "Open Google", "Open YouTube" |
-| **Calculations** | "Calculate 5 * 10 + 2" |
+| **Calculations** | "Calculate [Math Expression] Ex : Calculate 5 * 10 + 2" |
 | **System Info** | "Status", "Who are you?" |
-
+| **Themes**,"Stealth mode", "Normal mode"|
 ---
 
